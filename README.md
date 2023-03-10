@@ -1,10 +1,10 @@
 "Mapty" - create a running/cycling workout by clicking on the map.
 
 Used:
--Geolocation API
--Leaflet library
--OOP
--storing data in localStorage
+Geolocation API
+- Leaflet library
+- OOP
+- storing data in localStorage
 
 
 A project from The complete JavaScript course, Jonas Schmedtmann.
