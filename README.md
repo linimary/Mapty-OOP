@@ -1,6 +1,6 @@
 "Mapty" - create a running/cycling workout by clicking on the map.
 
-Used/worked with:
+Used:
 - Geolocation API
 - Leaflet library
 - OOP
